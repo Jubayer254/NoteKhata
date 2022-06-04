@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NoteKhata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <string name="page_1">Page 1</string>
+    <string name="page_2">Page 2</string>
+    <string name="page_3">Page 3</string>
+    <string name="notekhata">NoteKhata</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="completed_tasks">Completed</string>
+    <string name="help">Help</string>
+    <string name="about_us">About Us</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="title">Title</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_details">Add Details</string>
+    <string name="title1">Title:</string>
+    <string name="details">Details</string>
+    <string name="details2">Details:</string>
+    <string name="pending">Pending</string>
+    <string name="add_to_pending">Add To Pending</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_right_to_add_pending_list">Swipe right to add this task on pending list</string>
+    <string name="swipe_right_to_add_pending_list2">Swipe right to complete this task</string>
+    <string name="swipe_right_to_add_pending_list3">Swipe right to delete this task</string>
+    <string name="about">About</string>
+    <string name="help2">Help</string>
+
+
+</resources>
