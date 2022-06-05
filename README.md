@@ -22,14 +22,30 @@ NoteKhata is a task management app. Basically it's a `TO-DO` Application. User c
 ## Features List
 
 * There are 4 fragments in `Bottom Navigation Bar`:
-  * `Add Task Fragment`: You can add your task to task list.
+  * `Add Task Fragment`: You can add your task to task list.  
+    
+    <img src="Pictures/1.JPG" alt="Add Task Fragment" style="width:200px;"/>
+  
   * `My Task Fragment`: All of your task will stay here. If you swap right the task will added to `Pending Fragment`.
+
+    <img src="Pictures/2.JPG" alt="My Task Fragment" style="width:200px;"/>
+
   * `Pending Fragment`: All of your pending task will stay here. If you swap right the task will added to `Completed Fragment` and a notification will pop up.
+
+      <img src="Pictures/3.JPG" alt="Pending Fragment" style="width:200px;"/> <img src="Pictures/4.JPG" alt="Notification" style="width:200px; height:372px;">
+
   * `Completed Fragment`: All of your completed task will stay here. If you swap right the task will delete.
 
+     <img src="Pictures/5.JPG" alt="Completed Fragment" style="width:200px;"/>
+
 * There are 2 fragments in `Navigation Drawer`:
-  * `About Fragment`: The application has the details about the developer at `About Fragment`.
-  * `Help Fragment` The application has the details about how to use the application at `Help Fragment`.
+   * `Help Fragment` The application has the details about how to use the application at `Help Fragment`.
+
+     <img src="Pictures/7.JPG" alt="Navigation Drawer" style="width:200px;"/> <img src="Pictures/6.JPG" alt="Help Fragment" style="width:200px;"/>
+
+  * `About Fragment`: The application has the details about the developer at `About Fragment`. 
+  
+      <img src="Pictures/8.JPG" alt="About Fragment" style="width:200px;"/>
 
 ## How to Run on IDE
 Just download the `.zip` and open as a project.
