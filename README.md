@@ -52,4 +52,7 @@ Just download the `.zip` and open as a project.
 
 ## How to Run on Android Device
 * Go to `Build`->`Build Bundle(s) / APK(s)`->`Build APK(s)` of `Android Studio`.  
+
+   <img src="Pictures/10.png" alt="Run_On_IDE" style="width:350px;"/>
+
 * Then locate the apk and install the apk on your device. Enjoy :grinning:
