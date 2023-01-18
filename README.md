@@ -14,10 +14,10 @@ NoteKhata is a task management app. Basically it's a `TO-DO` Application. User c
     * GC: G1 Young Generation, G1 Old Generation
 
 ## Developed By
-  Jubayer Hossen  
-  Email: `jhossen191254@bscse.uiu.ac.bd`  
-  BSc in Computer Science and Engineering  
-  United International University
+* Jubayer Hossen  
+* Email: `jhossen191254@bscse.uiu.ac.bd`  
+* BSc in Computer Science and Engineering  
+* United International University
 
 ## Features List
 
