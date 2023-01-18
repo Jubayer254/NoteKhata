@@ -32,7 +32,7 @@ NoteKhata is a task management app. Basically it's a `TO-DO` Application. User c
 
   * `Pending Fragment`: All of your pending task will stay here. If you swap right the task will added to `Completed Fragment` and a notification will pop up.
 
-      <img src="Pictures/3.JPG" alt="Pending Fragment" style="width:150px;"/> <img src="Pictures/4.JPG" alt="Notification" style="width:150px; height:252px;">
+      <img src="Pictures/3.JPG" alt="Pending Fragment" style="width:150px;"/> <img src="Pictures/4.JPG" alt="Notification" style="width:150px; height:272px;">
 
   * `Completed Fragment`: All of your completed task will stay here. If you swap right the task will delete.
 
