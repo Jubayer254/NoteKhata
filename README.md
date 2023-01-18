@@ -4,7 +4,7 @@
 NoteKhata is a task management app. Basically it's a `TO-DO` Application. User can track his tasks by noting down to the application.
 
 ## Developed Using
-* Programing Language: Java, XML
+* Programing Languages: Java, XML
 * Operating System: Android
 * IDE Info: Android Studio Bumblebee | 2021.1.1 Patch 1
 * Other Info:   
